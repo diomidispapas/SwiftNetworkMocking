@@ -1,0 +1,135 @@
+{
+    "feed": {
+        "title": "Top Audio Podcasts",
+        "id": "https://rss.itunes.apple.com/api/v1/gb/podcasts/top-podcasts/all/3/explicit.json",
+        "author": {
+            "name": "iTunes Store",
+            "uri": "http://wwww.apple.com/gb/itunes/"
+        },
+        "links": [
+                  {
+                  "self": "https://rss.itunes.apple.com/api/v1/gb/podcasts/top-podcasts/all/3/explicit.json"
+                  },
+                  {
+                  "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=26&popId=28"
+                  }
+                  ],
+        "copyright": "Copyright © 2017 Apple Inc. All Rights Reserved.",
+        "country": "gb",
+        "icon": "http://itunes.apple.com/favicon.ico",
+        "updated": "2017-12-20T01:57:47.000-08:00",
+        "results": [
+                    {
+                    "artistName": "My Dad Wrote A Porno",
+                    "id": "1044196249",
+                    "releaseDate": "2017-12-11",
+                    "name": "My Dad Wrote A Porno",
+                    "kind": "podcast",
+                    "artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music128/v4/ab/91/36/ab913657-bd1d-3dc4-c598-f629266fe007/source/200x200bb.png",
+                    "genres": [
+                               {
+                               "genreId": "1303",
+                               "name": "Comedy",
+                               "url": "https://itunes.apple.com/gb/genre/id1303"
+                               },
+                               {
+                               "genreId": "26",
+                               "name": "Podcasts",
+                               "url": "https://itunes.apple.com/gb/genre/id26"
+                               },
+                               {
+                               "genreId": "1321",
+                               "name": "Business",
+                               "url": "https://itunes.apple.com/gb/genre/id1321"
+                               },
+                               {
+                               "genreId": "1301",
+                               "name": "Arts",
+                               "url": "https://itunes.apple.com/gb/genre/id1301"
+                               },
+                               {
+                               "genreId": "1401",
+                               "name": "Literature",
+                               "url": "https://itunes.apple.com/gb/genre/id1401"
+                               }
+                               ],
+                    "url": "https://itunes.apple.com/gb/podcast/my-dad-wrote-a-porno/id1044196249?mt=2"
+                    },
+                    {
+                    "artistName": "Golazzo: The Totally Italian Football Show",
+                    "id": "1324498249",
+                    "releaseDate": "2017-12-11",
+                    "name": "Golazzo: The Totally Italian Football Show",
+                    "kind": "podcast",
+                    "artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music128/v4/bb/fa/e2/bbfae20e-62f7-a6df-5919-dc546f3464d2/source/200x200bb.png",
+                    "genres": [
+                               {
+                               "genreId": "1465",
+                               "name": "Professional ",
+                               "url": "https://itunes.apple.com/gb/genre/id1465"
+                               },
+                               {
+                               "genreId": "26",
+                               "name": "Podcasts",
+                               "url": "https://itunes.apple.com/gb/genre/id26"
+                               },
+                               {
+                               "genreId": "1316",
+                               "name": "Sports & Recreation",
+                               "url": "https://itunes.apple.com/gb/genre/id1316"
+                               }
+                               ],
+                    "url": "https://itunes.apple.com/gb/podcast/golazzo-the-totally-italian-football-show/id1324498249?mt=2"
+                    },
+                    {
+                    "artistName": "TED",
+                    "id": "160904630",
+                    "releaseDate": "2017-12-15",
+                    "name": "TED Talks Daily",
+                    "kind": "podcast",
+                    "copyright": "© TED Conferences LLC",
+                    "artistId": "204040224",
+                    "artistUrl": "https://itunes.apple.com/gb/artist/ted/204040224?mt=2",
+                    "artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music128/v4/d5/c6/50/d5c65035-505e-b006-48e5-be3f0f8f19f8/source/200x200bb.png",
+                    "genres": [
+                               {
+                               "genreId": "1304",
+                               "name": "Education",
+                               "url": "https://itunes.apple.com/gb/genre/id1304"
+                               },
+                               {
+                               "genreId": "26",
+                               "name": "Podcasts",
+                               "url": "https://itunes.apple.com/gb/genre/id26"
+                               },
+                               {
+                               "genreId": "1301",
+                               "name": "Arts",
+                               "url": "https://itunes.apple.com/gb/genre/id1301"
+                               },
+                               {
+                               "genreId": "1315",
+                               "name": "Science & Medicine",
+                               "url": "https://itunes.apple.com/gb/genre/id1315"
+                               },
+                               {
+                               "genreId": "1324",
+                               "name": "Society & Culture",
+                               "url": "https://itunes.apple.com/gb/genre/id1324"
+                               },
+                               {
+                               "genreId": "1311",
+                               "name": "News & Politics",
+                               "url": "https://itunes.apple.com/gb/genre/id1311"
+                               },
+                               {
+                               "genreId": "1318",
+                               "name": "Technology",
+                               "url": "https://itunes.apple.com/gb/genre/id1318"
+                               }
+                               ],
+                    "url": "https://itunes.apple.com/gb/podcast/ted-talks-daily/id160904630?mt=2"
+                    }
+                    ]
+    }
+}
