@@ -8,6 +8,7 @@
 
 import Foundation
 
+/// https://github.com/peteog/WaitsForConnectivity
 enum ViewState<T> {
     case loading
     case loaded(T)
